@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+
+}
+
+.box1{
+    height: 300px;
+    width: 200px;
+    background-color: darkslategray;
+    border-style: dashed; border-color: rgb(151, 231, 119);
+
+}
+
+.box2{
+    height: 300px;
+    width: 200px;
+    background-color: darkcyan;
+    border-style: groove; border-color: sienna;
+}
+
+.box3{
+    height: 300px;
+    width: 200px;
+    background-color: rgb(109, 194, 166);
+    border-style: ridge; border-color: olive;
+
+}
+
+body{
+    background-image: linear-gradient(to top, rgb(203, 230, 178), green, rgb(5, 73, 11));
+}
+
+
+

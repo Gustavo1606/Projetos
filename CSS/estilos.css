@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    color: burlywood;
+
+
+
+}
+body{
+    background-color: dimgray;
+    background-image: url(halloween-party.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: -50%;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
